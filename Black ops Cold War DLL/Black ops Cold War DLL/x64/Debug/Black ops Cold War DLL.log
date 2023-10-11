@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+D:\downloads\Black ops Cold War DLL\Black ops Cold War DLL\dllmain.cpp(66,18): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+D:\downloads\Black ops Cold War DLL\Black ops Cold War DLL\dllmain.cpp(67,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Black ops Cold War DLL.vcxproj -> D:\downloads\Black ops Cold War DLL\x64\Debug\Black ops Cold War DLL.dll
